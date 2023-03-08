@@ -85,4 +85,4 @@ Pull requests can be submitted [here](https://github.com/the-weird-aquarian/dirs
 
 
 ## License
-This project is licensed under the terms of [GPLv3.0 license](https://github.com/the-weird-aquarian/dirscan/blob/main/LICENSE)
+This project is licensed under the terms of [GPLv3.0 license](https://github.com/the-weird-aquarian/dirscan/blob/main/LICENSE).
