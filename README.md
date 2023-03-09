@@ -59,7 +59,7 @@ chmod +x dirscan
 python3 dirscan -u <URLs>
 ```
 
-A custom directories list can be set using:
+A custom directories list can be set using `-l` or `--list` option:
 ```
 python3 dirscan -u <URLs> -l <directories list>
 ```
